@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XyleN5967
 - 👀 I’m interested in Discord Bot and Creating own Simulator
 - 🌱 I’m currently learning Python & C#
-
+- 🕊️ I’m so lazy to do my homework
 
 
 <!---
