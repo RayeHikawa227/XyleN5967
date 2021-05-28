@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @XyleN5967
-- 👀 I’m interested in Discord Bot and Creating own Simulator
-- 🌱 I’m currently learning Python & C#
-- 🕊️ I’m so lazy to do my homework
-
-
-<!---
-XyleN5967/XyleN5967 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##
+![Kohana GitHub stats](https://github-readme-stats.vercel.app/api?username=XyleN5967&show_icons=true)
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XyleN5967&layout=compact)](https://github.com/XyleN5967/github-readme-stats)
